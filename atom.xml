@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mency89.github.io/</id>
     <title>Gridea</title>
-    <updated>2020-03-02T03:43:02.058Z</updated>
+    <updated>2020-03-02T06:43:51.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mency89.github.io/"/>
     <link rel="self" href="https://mency89.github.io/atom.xml"/>
@@ -16,8 +16,8 @@
         <link href="https://mency89.github.io/post/hierin/">
         </link>
         <updated>2020-03-02T02:41:35.000Z</updated>
-        <content type="html"><![CDATA[<p>##君子知命不惧，日日自新</p>
-<p>##Consume deliberately.Take in information over affirmation.</p>
+        <content type="html"><![CDATA[<h2 id="君子知命不惧日日自新">君子知命不惧，日日自新</h2>
+<h2 id="consume-deliberatelytake-in-information-over-affirmation">Consume deliberately.Take in information over affirmation.</h2>
 ]]></content>
     </entry>
     <entry>
